@@ -75,14 +75,9 @@ Reloj_Clock
 
 ## 📸 Demo (GIF)
 
-> ⚠️ Recomendación: agregar aquí un GIF mostrando:
-> - Cambio de color
-> - Cambio de imagen
-> - Movimiento del reloj
-> - Interacción con botones
 
 ```
-/docs/demo.gif
+/assets/gif.gif
 ```
 
 ---
