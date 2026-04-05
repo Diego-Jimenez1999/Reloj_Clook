@@ -77,7 +77,10 @@ Reloj_Clock
 
 
 ```
-assets/demo.gif
+<p align=\"center\">
+  <img src=\"assets/demo.gif\" width=\"500\"/>
+</p>
+
 ```
 
 ---
