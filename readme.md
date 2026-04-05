@@ -77,7 +77,7 @@ Reloj_Clock
 
 
 ```
-/assets/demo.gif
+!(Demo)(/assets/demo.gif)
 ```
 
 ---
