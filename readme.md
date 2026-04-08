@@ -76,9 +76,8 @@ Reloj_Clock
 ## 📸 Demo (GIF)
 
 
-```
-<p align=\"center\">
-  <img src=\"assets/demo.gif\" width=\"500\"/>
+<p align="center">
+  <img src="assets/demo.gif" width="500" alt="Demo del Reloj Clook"/>
 </p>
 
 ```
